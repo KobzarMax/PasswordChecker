@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.col {
+  margin: 0 auto;
+  text-align: center;
+}
